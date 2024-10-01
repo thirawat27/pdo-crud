@@ -1,6 +1,6 @@
 <?php 
-
-// access modifier 
+ 
+// access modifier ระดับในการเข้าถึง Class, Attribute, Method และอื่น ๆ ในภาษาเชิงวัตถุ
 
 // private เข้าถึงได้แค่ภายใน class 
 // protected เข้าถึงได้ใน class และ class สืบทอด
